@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submission-mlgc-galangsatrio",
+  "private_key_id": "fc0daf0a4fbdbc611380ff17dd279b1f54bd306b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCupBPTI4ulDCVf\nb3dSeK3Cmz2w3JfWW/YG6Tt3Zkgs0OoPrzuohSSClpVoeCrAIhjbeVELDOkeCBo0\nhf+iCLviBfL0TqQyXXRi1KOcZDKPIZBXh0eK5Xf8TrC5WIcnrrFcTJOVoQCDHMkS\nEA8P0vmaIoCadLAx5R9YZUrMPHUGgKUT12KWlomrKHhQHIFhMvsvLPo/E7j7PpN6\nrjweBYyf+FMej/v5wtp+2VpT5a+eXPFAT8BHww1LunXkuXbombp/rU6LfvpnJY+X\nc/jJRGxdZrmtl9+1rF99yrdF2MIKzeXMcqmU8H4+Ki/WvR/3FlqpZb1tJrcGROcs\nrTgpq6t/AgMBAAECggEAPecO1+Jbl08s2B0skGESRk68mTo339WM6Xo2h+YLY0dS\nD+kvHlbDUD6MCxG9JYlwgisIXQBgiTKaB1AQAqFR55XwPkS50thpbrasn7ysZyug\nfEYJR+R6mUZTQf9tONWlLHBAR+NfyRmk8/AZRqSjsMzWBOmjoqvyZmTRFH/Bg2Hy\nmfLQlNRK1w6DkQvNyxHUePcWTL/CLblDf2h+Zwld9aT8Bo/fquwLn6Ved24+Xi+F\n1zLOR5/d4buLeaoHjdV8X+EmJbG7ykHGQZxVn5TSKHpi86PoGETzM6RMsbfAqWGy\ngfVpSob49qoaQaeQDS99ULqtbdKTWr7C2ifq029OYQKBgQD1CoFBSRmwqL19AwLP\n4TrtaTP4bjL9L2tWBwJq9BGUrKMAWI1j1tLCtJXa4BC9pS+NHsqCHjRwsy7Cfk8D\nSD2vOtLfO8fWEbCaW8vuC7JkqKpKMaB0wnpw0pk+GgY8fe3sOBHk1/YzWRdYgREB\ndOjVlNikKDxpQ4yy9SitpHBRuQKBgQC2c45OLlW6wUuiG7bxXQ+evyrCsZ+0OFCB\nLL6615F7FIQNgVruEEAulVVkuwlnWyugqwu9TxzHNFsnhJg9AvqqvRx9Ys3C2VRr\nqck+S0klKOfF+IH3kPL9lWaWTvjS5lrwnOiXEi7opHYUR3rzPB3BYW2q0aTAzBuF\n0pYCJCRi9wKBgQC8fx47CG6YtNU/C0fofcwEwT7XRn42wXmCLdYwTBwSEFM7euMZ\nADIU0THNsztth1py5lLFkVKpt0yrFNrXHYVF/KwmSShKhkUiGKdhMOJECHMmq9JQ\nvyHNFFQJr59IfV6+rcsmDPM5QLlyvaZFRpetZNjaPpFqMCpVp71pBevZEQKBgQCO\nzLbOnhlfSDbINGTlWG8HUpxHMfrLdWAdGkZVuq8U5CPO5jWjKnjxfNQPOQzNJmBp\nKjbP/oGJsIK/1VnKNvC2fbk0sgZVwQAAHC10YjxnpzJwkmY2u+5TZ4GZl0nM15rJ\nxCWPSB4K293HVYL3qU+osXbCQb9vXtET1pSuLFeGVQKBgQCVpaToE6HAjitrSI+e\nv1U4t8pLV4HQk/ObGlreHKWAw/6WyyNgodu3VXpU/xcyhBvi99zirlWvwSTpFGi7\npWmgoO9LLFkFQNBzLdatyHwXBrUzi8JAC+retLjNpoAyWzqQYkqlm1AR1CAnDVsF\nHJ7lEwrTLS5TrN1qvbhoIun1hA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-object-admin@submission-mlgc-galangsatrio.iam.gserviceaccount.com",
+  "client_id": "101856129802229957837",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-object-admin%40submission-mlgc-galangsatrio.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

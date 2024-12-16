@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submission-mlgc-galangsatrio",
+  "private_key_id": "d03c925ae7f68d4b4351929a5f1848b8ef903596",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRdwb+S4ZhJmNG\nzhE3ky51Ekby0Us5km3BHC/Ig86yjt/YdnHx33kkeZJI1PwX/IM4BxvWwF5UEFwl\nwh0sH/XtSNCzzvZ2qUOGdhvllJIuEUi51JaR91AVLxmNl5uHLMlDXakY5jabpM2v\ny8KI1p7Jv/w++xVXCDxXp34dw40hSd8YlR0hAqXGWwZQ1YIKjLHIwrOKO7TmyJhY\nwfBpYcebciuQ1KguykhAsidHWlnpJC1STZ7c3yurM2qG6tmEnD/cOfZZC5+MjlQ1\nI8lnO8WYR2SELXacIqDQH8O2mDFzPk0mUYX++xQ+Z7y3JnkO3DSEyU7QIXwIrvMY\n8Pci3/LrAgMBAAECggEAMXhZWII24TM88AeEs3HKiuX8WvfyrVGvIc2EMp0g3njY\nh7VAaxGlEVKG/V3xnfayaYuBXDdv3QbzT6QEZ802xcvNrljkWNaXsFLaielNDX2z\nTf+OdXW2Nn4eIpk8u2vvxolDyMQCLkyN5wtUzVSwC8zO7FxXlZGnc+fybAzlIjyJ\n8REv2Of3EAjHjABYf4KDBnER9p9ZzSwEVqDvNvFzxT+I3eYOpYK84sl8zOWAdEbu\nJz6oQ8B6pQLHuT9C+Ej/MYLeoc6OfBzYEQyuEAURvIuOcO1TYoc/Nt9Q/XpeQwDA\nbVUexy72nTBVM9nnoMvmlSqOW3xBoLsXRZn49ac+AQKBgQDBWzA7ICEbAeJW4c2b\nkiHUwtuxNPuVBPKtNwMr+WRqiZiV590KNzZWlH9uN3s8JzGLAkyBT30w17JheeGn\nPjAPGdjDgem6cIzoi434rA6Rbn/3yMAL3+/vJ5xKaPLMc8PxltDK4aAWCbOFf5g2\nn6fEQz757FXZUTJWhX4W0WpisQKBgQDAl8akI4Zjtw6+Q8C6LpjHPBG7faqGpyTs\nwWLP7MQWDiLu0iU7sqVgDv8WKcHtIOALdA+jrlyrMCggEYzSzwO4Q+sHal6JpnFK\nym02B5dn+DDJNj0IyMGm1kppuBsPY3akiqk00R1FAPutVkGtROVUflttoVSU99iX\nbBs7Sqg+WwKBgAKxk4VvWCa5Kv8M3EFrkr8VC9x3IX4c+IiDOK8XJVf6nL6R4Vlw\nFXi1TuUpLrVS0nTeTlSK1/KjPp/vA77Btgev0349xBTN1piywQKS2w0ZnfzEtjA0\nKXKKebnrpl5EypkGAdihtgo4jmCwu10fckXgrfLrYPLLF8luyKfmuPWxAoGBAKjl\nMWWGZfeSdJJ0llJwRLkMO7zBsscNU3txCHexejChSw9HKTHWM+Muo5NLIW8T0ocY\nzBJN+aSCwd2FporE0s1IepdxN+DdHyNorCeitquN4zLBpvrKG9F0waM+ujRflI8t\nrr/L1zBJcW0MZOJPthHIEePthGBzjfUU8Dip+ytbAoGAXtunpHG4RN9e8g/opeTL\nafCEzLazJr+zlhekiedatqcl97AOeUyOZ/bSjLoQCiANb2HqyUQ84QfBRK/XqbEB\nQb6fxwH+DYFiB3KYmTG/UmMqTGcksbvTxBgK3Qiu2mE0wmib5f+Y+ByfuvwiP/qE\njTbPAELzNJ7bYkEXYSZ9cus=\n-----END PRIVATE KEY-----\n",
+  "client_email": "database-admin@submission-mlgc-galangsatrio.iam.gserviceaccount.com",
+  "client_id": "114405961884557517861",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/database-admin%40submission-mlgc-galangsatrio.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
