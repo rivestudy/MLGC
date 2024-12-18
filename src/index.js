@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const predictRoute = require("./routes/predictRoute.js");
 const historyRoute = require("./routes/historyRoute.js");
-const { errorMiddleware } = require("./middlewares/middleware.js");
+const { errorMiddleware } = require("./middleware/middleware.js");
 
 const app = express();
 app.use(bodyParser.json());
