@@ -1,7 +1,7 @@
 const tf = require("@tensorflow/tfjs-node");
 
 const modelUrl =
-  "https://storage.googleapis.com/model-mlgc-galang/model.json";
+  "https://storage.googleapis.com/bucket-model-mlgc/model.json";
 let model;
 
 const loadModel = async () => {

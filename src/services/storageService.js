@@ -3,7 +3,7 @@ const path = require("path");
 
 const storageKeyPath = path.resolve(__dirname, "../utils/storage.json");
 const storage = new Storage({ keyFilename: storageKeyPath });
-const bucketName = "model-mlgc-galang";
+const bucketName = "bucket-model-mlgc";
 const bucket = storage.bucket(bucketName);
 
 const uploadFile = async (buffer, mimetype, imageId) => {
